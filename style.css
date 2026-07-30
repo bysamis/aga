@@ -248,7 +248,7 @@ button {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center top;
+  object-position: 50% 40%;
 }
 
 .hero__overlay {
@@ -256,8 +256,8 @@ button {
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(26, 26, 26, 0.75) 0%,
-    rgba(26, 26, 26, 0.85) 50%,
+    rgba(26, 26, 26, 0.55) 0%,
+    rgba(26, 26, 26, 0.75) 55%,
     rgba(26, 26, 26, 0.95) 100%
   );
 }
