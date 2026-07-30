@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://agacanotokurtarici.com/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/logo.png</image:loc>
+      <image:title>Ağacan Oto Kurtarıcı Logo</image:title>
+      <image:caption>7/24 oto çekici ve yol yardım logosu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/hero.webp</image:loc>
+      <image:title>Ağacan Oto Kurtarıcı 7/24 Hizmet</image:title>
+      <image:caption>Oto çekici ve motosiklet taşıma hizmeti</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/gallery-01.jpg</image:loc>
+      <image:title>Oto çekici ile araç taşıma</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/gallery-02.jpg</image:loc>
+      <image:title>7/24 çekici hizmeti saha fotoğrafı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/gallery-03.jpg</image:loc>
+      <image:title>Gece oto çekici hizmeti</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/gallery-04.jpg</image:loc>
+      <image:title>Ağacan Oto Kurtarıcı çekici aracı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/gallery-05.jpg</image:loc>
+      <image:title>Acil oto kurtarma hizmeti</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://agacanotokurtarici.com/images/gallery-06.jpg</image:loc>
+      <image:title>Gece gündüz oto kurtarma</image:title>
+    </image:image>
+  </url>
+</urlset>

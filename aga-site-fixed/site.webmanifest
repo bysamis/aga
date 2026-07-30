@@ -1,0 +1,18 @@
+{
+  "name": "Ağacan Oto Kurtarıcı",
+  "short_name": "Ağacan Çekici",
+  "description": "İstanbul 7/24 oto çekici, oto kurtarma ve yol yardım hizmeti. Gece gündüz açık.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#e8751a",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
