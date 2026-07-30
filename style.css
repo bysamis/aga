@@ -24,6 +24,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -32,6 +33,7 @@ body {
   color: var(--text);
   line-height: 1.6;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 img {
@@ -229,6 +231,8 @@ button {
 .hero {
   position: relative;
   min-height: 100vh;
+  min-height: 100svh; /* mobil adres çubuğu nedeniyle taşmayı önler */
+  min-height: 100dvh; /* dinamik viewport yüksekliği - modern tarayıcılar */
   display: flex;
   align-items: center;
   padding-top: var(--header-height);
@@ -359,7 +363,7 @@ button {
   position: absolute;
   top: -100%;
   left: 1rem;
-  z-index: 300;
+  z-index: 999;
   background: var(--cta);
   color: #1a1a1a;
   padding: 0.75rem 1.25rem;
@@ -784,7 +788,7 @@ button {
 .lightbox {
   position: fixed;
   inset: 0;
-  z-index: 200;
+  z-index: 500;
   background: rgba(0, 0, 0, 0.92);
   display: flex;
   align-items: center;
@@ -823,7 +827,7 @@ button {
   position: fixed;
   bottom: 1.5rem;
   right: 1.5rem;
-  z-index: 150;
+  z-index: 90;
   display: flex;
   align-items: center;
   gap: 0.6rem;
